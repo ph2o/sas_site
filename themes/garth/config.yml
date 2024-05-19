@@ -1,0 +1,4 @@
+logo: Proposition 07.png
+static:
+  exclude:
+    - '*.scss'

@@ -1,0 +1,22 @@
+title: 'Station 10.01'
+baseline: 'Vue-des-Alpes'
+baseurl: 'https://test-site.sas-vuedesalpes.ch/'
+description: 'La station de secours de la Vue-des-Alpes est une entité de secours en montagne pour les territoires Neuchâtelois, et partiellement jurassien et bernois.'
+image: sas.png
+languages:
+  - code: fr
+    name: Français
+    locale: fr_CH 
+    config:
+      title: "Station de secours 10.01"
+language: fr
+canonicalurl: flase
+timezone: Europe/Zurich
+pages:
+  body:
+    images:             # how to handle images
+      resize:
+        enabled: true
+theme:
+  - garth
+

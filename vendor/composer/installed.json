@@ -1,0 +1,132 @@
+{
+    "packages": [
+        {
+            "name": "cecil/theme-applanding",
+            "version": "1.8.1",
+            "version_normalized": "1.8.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Cecilapp/theme-applanding.git",
+                "reference": "a6d23904dc0fe1da0c3ac6776904e2fbec2eb9eb"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Cecilapp/theme-applanding/zipball/a6d23904dc0fe1da0c3ac6776904e2fbec2eb9eb",
+                "reference": "a6d23904dc0fe1da0c3ac6776904e2fbec2eb9eb",
+                "shasum": ""
+            },
+            "require": {
+                "cecil/theme-installer": "^1.4"
+            },
+            "time": "2023-12-12T10:53:09+00:00",
+            "type": "cecil-theme",
+            "extra": {
+                "name": "applanding",
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Cecil theme: App Landing",
+            "keywords": [
+                "cecil",
+                "landing",
+                "theme"
+            ],
+            "support": {
+                "issues": "https://github.com/Cecilapp/theme-applanding/issues",
+                "source": "https://github.com/Cecilapp/theme-applanding/tree/1.8.1"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/ArnaudLigny",
+                    "type": "github"
+                },
+                {
+                    "url": "https://opencollective.com/cecil",
+                    "type": "open_collective"
+                }
+            ],
+            "install-path": "../../themes/applanding"
+        },
+        {
+            "name": "cecil/theme-installer",
+            "version": "1.4.5",
+            "version_normalized": "1.4.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Cecilapp/theme-installer.git",
+                "reference": "12b1d72ff38e1199eaca34877a64008b6a65e393"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Cecilapp/theme-installer/zipball/12b1d72ff38e1199eaca34877a64008b6a65e393",
+                "reference": "12b1d72ff38e1199eaca34877a64008b6a65e393",
+                "shasum": ""
+            },
+            "require": {
+                "composer-plugin-api": ">=1.0"
+            },
+            "require-dev": {
+                "composer/composer": ">=1.0"
+            },
+            "time": "2022-01-06T10:54:26+00:00",
+            "type": "composer-plugin",
+            "extra": {
+                "class": "Cecil\\Installer\\Composer\\CecilPlugin",
+                "branch-alias": {
+                    "dev-master": "1.x-dev"
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "Cecil\\Installer\\Composer": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Arnaud Ligny",
+                    "email": "arnaud@ligny.fr",
+                    "homepage": "https://arnaudligny.fr",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Installer for Cecil's themes",
+            "keywords": [
+                "cecil",
+                "installer",
+                "themes"
+            ],
+            "support": {
+                "issues": "https://github.com/Cecilapp/theme-installer/issues",
+                "source": "https://github.com/Cecilapp/theme-installer/tree/1.4.5"
+            },
+            "funding": [
+                {
+                    "url": "https://www.paypal.me/narno",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://github.com/ArnaudLigny",
+                    "type": "github"
+                },
+                {
+                    "url": "https://opencollective.com/cecil",
+                    "type": "open_collective"
+                }
+            ],
+            "install-path": "../cecil/theme-installer"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

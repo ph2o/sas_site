@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Sitemap: https://test-site.sas-vuedesalpes.ch/sitemap.xml

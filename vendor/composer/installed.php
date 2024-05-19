@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => '__root__',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        '__root__' => array(
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'cecil/theme-applanding' => array(
+            'pretty_version' => '1.8.1',
+            'version' => '1.8.1.0',
+            'reference' => 'a6d23904dc0fe1da0c3ac6776904e2fbec2eb9eb',
+            'type' => 'cecil-theme',
+            'install_path' => __DIR__ . '/../../themes/applanding',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'cecil/theme-installer' => array(
+            'pretty_version' => '1.4.5',
+            'version' => '1.4.5.0',
+            'reference' => '12b1d72ff38e1199eaca34877a64008b6a65e393',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/../cecil/theme-installer',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
