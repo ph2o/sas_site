@@ -5,13 +5,19 @@ menu:
     weight: 700
 
 ---
-Nous remercions chaleureusement les partenaires ci-dessous qui soutiennent activement la station et contribuent à offrir ses prestations aux patients.
+Nous remercions chaleureusement les partenaires ci-dessous qui soutiennent activement la station et contribuent à offrir les prestations du secours alpins aux patients de notre région.
 
-![Loterie Romande](/loro-logobeneficiaires-rvb.jpg){width=300}
- 
+[![Loterie Romande](/loro-logobeneficiaires-rvb.jpg){width=300}](https://www.loro.ch/fr)  
 
-![Nevia](/nevia_logo.png){width=300}
+<br>
 
+[![Nevia](/nevia_logo.png){width=300}](https://www.rn-arc.ch/)  
+
+Les sections de Neuchâtel et de Sommartel nous soutiennent pour nos projets.
+
+| | | |
+|-|-|-|
+|[![Logo section Neuchâtel](/sac-ne-logo.gif){width=180}](https://www.cas-neuchatel.ch/)| |[![Logo section Sommartel](/logo_sommartel.png){width=150}](https://www.cas-sommartel.ch/)|
 
 | | | |
 |-|-|-|

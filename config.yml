@@ -8,7 +8,7 @@ languages:
     name: Français
     locale: fr_CH 
     config:
-      title: "Station de secours 10.01"
+      title: "Station de secours (10.01)"
 language: fr
 canonicalurl: flase
 timezone: Europe/Zurich

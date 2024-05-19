@@ -7,7 +7,7 @@ menu:
 
 # Organisation
 
-La station de secours de la Vue-des-Alpes est un service du [Secours Alpin Suisse](https://www.secoursalpin.ch/) (SAS) qui a pour objectif de venir en aide aux personnes en détresse dans les régions alpines et préalpines ou difficilement accessibles de Suisse et des pays voisins.
+La station de secours de la Vue-des-Alpes (10.01) est un service du [Secours Alpin Suisse](https://www.secoursalpin.ch/) (SAS) qui a pour objectif de venir en aide aux personnes en détresse dans les régions alpines et préalpines ou difficilement accessibles de Suisse et des pays voisins.
 
 La station de secours de la Vue-des-Alpes est composée de sauveteurs montagnards répartis sur le territoire d'intervention.
 

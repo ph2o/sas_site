@@ -4,11 +4,11 @@ menu:
   main:
     weight: 200
 ---
-Nous sommes disponibles en suisse toute l'année 24h sur 24 afin de venir en aide aux personnes en détresse dans les régions alpines et préalpines ou difficilement accessibles de Suisse et des pays voisins.. 
+Nous sommes disponibles en Suisse toute l'année 24h sur 24 afin de venir en aide aux personnes en détresse dans les régions alpines et préalpines ou difficilement accessibles de Suisse et des pays voisins.
 
 ![Centrale d'engagement REGA](/Rega_Einsatzzentrale.jpg){width=400}
 
-Toutes les demandes de secours doivent être adressées à la centrale d'alarme Rega au **1414** ou par l'application **rega**.
+Toutes les demandes de secours doivent être adressées à la centrale d'alarme Rega au [**1414**](https://www.rega.ch/fr/alarme-1414-1) ou par l'application [**rega**](https://www.rega.ch/fr/en-mission/voici-comment-nous-vous-aidons/application-rega).
 
 | | | |
 |-|-|-|

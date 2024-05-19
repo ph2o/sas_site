@@ -9,16 +9,16 @@ La station de secours de la Vue-des-Alpes est un service du Secours Alpin Suisse
 
 Elle dépend des sections Sommartel et Neuchâteloise et déploie ses activités dans tout le canton de Neuchâtel.
 
-La station fait partie du SARO qui est l’association regroupant toutes les stations de secours romandes.
+La station fait partie du [SARO](https://www.secoursalpin.ch/services-de-secours/les-associations-regionales/secours-alpin-romand-saro) qui est l’association regroupant toutes les stations de secours romandes.
 
 ### Contact
-Délégué aux comités des section CAS de Sommartel et CAS Neuchâtel
+Délégué aux comités des sections CAS de Sommartel et CAS Neuchâtel
 
-** Misaël Peter-Contesse **
-
-Les Bulles 51
-
-2300 La Chaux-de-Fonds
+> ** Misaël Peter-Contesse **  
+> Les Bulles 51  
+> 2300 La Chaux-de-Fonds  
+> +41 (0)79 532 42 51  
+> prepose(at)sas-vuedesalpes.ch  
 
 | | | |
 |-|-|-|
