@@ -5,7 +5,7 @@ menu:
     weight: 700
 
 ---
-Nous remercions chaleureusement les partenaires ci-dessous qui soutiennent activement la station et contribuent à offrir les prestations du secours alpins aux patients de notre région.
+Nous remercions chaleureusement les partenaires ci-dessous qui soutiennent activement la station et contribuent à offrir les prestations du secours alpin aux patients de notre région.
 
 [![Loterie Romande](/loro-logobeneficiaires-rvb.jpg){width=300}](https://www.loro.ch/fr)  
 

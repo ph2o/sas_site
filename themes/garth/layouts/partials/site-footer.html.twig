@@ -12,7 +12,7 @@
           {%- set made_with -%}
             <a href="{{ cecil.url }}">Cecil</a> &amp; <a href="https://github.com/Cecilapp/theme-garth#readme">Garth</a>{% if menu is defined %}{{ menu }}{% endif %}
           {%- endset ~%}
-          <small class="small">&copy; {{ site.copyright|default(site.title) }} {{ site.time|date('Y') }}&nbsp;</small>
+          <small class="small">&copy; {{ site.time|date('Y') }}&nbsp; &middot; {{site.title}} &nbsp; {{site.baseline}}</small>
         </div>
       </div>
     </footer>
