@@ -1,5 +1,5 @@
 ---
-title: "Sponsors"
+title: "Soutien"
 menu:
   main:
     weight: 700
@@ -7,7 +7,7 @@ menu:
 ---
 Nous remercions chaleureusement les partenaires ci-dessous qui soutiennent activement la station et contribuent à offrir les prestations du secours alpin aux patients de notre région.
 
-[![Loterie Romande](/loro-logobeneficiaires-rvb.jpg){width=300}](https://www.loro.ch/fr)  
+[![Loterie Romande](/logo_sport.png){width=300}](https://www.loro.ch/fr)  
 
 <br>
 
